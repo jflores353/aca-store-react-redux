@@ -36,6 +36,7 @@ It may not seem like anything different is happening but we need to remember thi
 * setState for products to `store.getState().products`. 
 * Instead of using `props.products`, use `this.state.products`
 * Don't pass addItemToCart to ProductDetail
+
 ## Layout.js
 * Do not pass shoppingCart to Header.
 ## Header.js
